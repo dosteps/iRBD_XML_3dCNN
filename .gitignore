@@ -1,0 +1,24 @@
+﻿## neglect directory
+
+.cache
+
+Data/
+Methods/temp_*
+Results/
+
+artifacts/
+artifacts_trwise/
+
+wandb/
+
+Posner_iRBD_V1_49/
+
+_temp/
+
+lr_find_*.ckpt
+
+*.pt
+*.pth
+
+*_XML_3dCNN
+

@@ -1,0 +1,17 @@
+wandb
+torch
+pytorch-lightning==1.5.8
+torchmetrics==0.7.0
+numpy==1.21.2
+easydict
+scikit-image
+scikit-learn
+imblearn
+seaborn
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorboard==2.9.1
+tensorboardx==2.4.1
+tensorflow-estimator==2.9.0
+tensorflow-io-gcs-filesystem==0.26.0
+tensorflow==2.9.1
