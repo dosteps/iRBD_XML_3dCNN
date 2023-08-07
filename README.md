@@ -68,6 +68,8 @@ python Methods/train_ercd_artifacts.py -pipe "init_train" -dt "demo" -entity "us
 
 If you find this code useful in your own work, please consider citing our paper:
 
+Kim, H., Seo, P., Byun, J. I., Jung, K. Y., & Kim, K. H. (2023). Spatiotemporal characteristics of cortical activities of REM sleep behavior disorder revealed by explainable machine learning using 3D convolutional neural network. Scientific Reports, 13(1), 8221. https://doi.org/10.1038/s41598-023-35209-1
+
 Thank you!
 
 ## License

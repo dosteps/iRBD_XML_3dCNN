@@ -219,7 +219,7 @@ class C3D_classic(pl.LightningModule):
     
     
     def configure_optimizers(self):
-      optimizer = getattr(torch.optim, self.optimizer)(self.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
+      optimizer = getattr(torch.optim, self.optimizer)(self.parameters(), lr=self.hparams.learning_rate, weight_decay=self.weight_decay)
       return optimizer
 
   
